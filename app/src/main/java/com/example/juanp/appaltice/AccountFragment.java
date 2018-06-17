@@ -18,7 +18,7 @@ public class AccountFragment extends Fragment {
     public AccountFragment() {
         // Required empty public constructor
     }
-                       
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
